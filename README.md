@@ -1,11 +1,10 @@
-
 Academia Capgemini 2022 - Desafio de Programação
 
 Para rodar o Projeto 
-# Clone este repositório
-$ git clone https://github.com/SamelaMonteiro/DesafiodeProgramacao
+Clone este repositório
+https://github.com/SamelaMonteiro/DesafiodeProgramacao
 
-Depois abra o projeto com uma IDE de prefrencia para IntelliJ
+Depois abra o projeto com uma IDE, de prefrência IntelliJ
 Executar o código na pasta src/src
 
 
